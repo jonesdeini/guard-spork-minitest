@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spork', '~> 0.9.2'
   s.add_dependency 'guard', '~> 1.4.0'
-  s.add_dependency 'minitest', '~> 3.3'
+  s.add_dependency 'minitest'
 
   s.add_dependency 'guard-minitest', '~> 0.5'
   s.add_dependency 'guard-spork', '~> 1.2.0'
